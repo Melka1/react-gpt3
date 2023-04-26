@@ -6,7 +6,7 @@ function Possibility() {
   return (
     <div
       className='gpt3__possibility section__padding'
-      id='passibility'
+      id='possibility'
     >
       <div className="gpt3__possibility-image">
         <img src={possibilityImage} alt="possibility" />
